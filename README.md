@@ -10,9 +10,7 @@
 ## Dataset Overview and Data Preprocessing:
          The dataset includes sales data, customer profiles, 
          and   store information. Preprocessing involves aggregating 
-         sales data, calculating customer metrics, and creating 
-         geographical visualizations.
-
+         sales data, calculating customer metrics.
  ## Insights and Findings:
      Visualizations can reveal insights into customer demographics, 
      popular products, and peak shopping hours, enabling retailers to optimize 
