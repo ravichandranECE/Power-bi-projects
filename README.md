@@ -1,7 +1,6 @@
 
 # PROJECT POWER BI
-## DOMAIN
-    RETAIL
+
 ## OBJECTIVE:
      This project aims to create an analytics dashboard for
      retail businesses to analyze sales trends, customer behavior,
