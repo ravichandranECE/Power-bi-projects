@@ -1,10 +1,10 @@
-# HR DASBOARD-MYSQL-POWER BI
+👥 HR Employee Distribution Dashboard
 
-##  Data - HR Data with over 22000 rows from the year 2000 to 2020.
+A comprehensive workforce analytics project designed to visualize and analyze employee demographics, departmental distribution, and retention trends. This dashboard provides HR professionals with actionable insights into staff composition across multiple dimensions, including gender, age, race, and location.
 
-## Data Cleaning & Analysis - MySQL Workbench
+📊 Project Overview
 
-## Data Visualization - PowerBI
+This interactive dashboard (built with Power BI) analyzes a dataset of over 22,000 employees. It transforms raw personnel data into visual intelligence, allowing for deep dives into departmental health, geographic footprint, and long-term termination trends.
 
 # SQL 
 
