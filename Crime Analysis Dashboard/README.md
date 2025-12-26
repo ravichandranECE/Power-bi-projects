@@ -8,45 +8,45 @@
 
 ## Key Metrics & Analysis
 1. High-Level Statistics
-Total Crime Volume: 2,500 incidents analyzed.
+    Total Crime Volume: 2,500 incidents analyzed.
 
-Resolution Success: A resolved crime rate of 70.04%.
+    Resolution Success: A resolved crime rate of 70.04%.
 
-Resolution Gap: 29.96% of crime incidents currently lack resolution.
+    Resolution Gap: 29.96% of crime incidents currently lack resolution.
 
 2. Temporal Trends (Time & Date)
-Dangerous Crime Time: 11:30:00 PM is identified as the peak period for criminal activity.
+    Dangerous Crime Time: 11:30:00 PM is identified as the peak period for criminal activity.
 
-Low Crime Time: 12:30:00 AM represents a statistically lower period for reported incidents.
+    Low Crime Time: 12:30:00 AM represents a statistically lower period for reported incidents.
 
-Monthly Peak: October recorded the highest volume with 309 incidents.
+    Monthly Peak: October recorded the highest volume with 309 incidents.
 
-Weekly Heatmap: Visualizes crime density by day of the week, with Sundays showing high activity (375 incidents).
+    Weekly Heatmap: Visualizes crime density by day of the week, with Sundays showing high activity (375 incidents).
 
 3. Criminal Perspectives
-Primary Offence: Violence and Sexual Offences are the most prevalent, accounting for 132 incidents on sampled days.
+    Primary Offence: Violence and Sexual Offences are the most prevalent, accounting for 132 incidents on sampled days.
 
-Secondary Offence: Anti-Social Behaviour follows with 66 incidents.
+    Secondary Offence: Anti-Social Behaviour follows with 66 incidents.
 
-Trend by Year: Analysis shows a significant spike in 2022 (1,150 incidents) compared to 2021.
+    Trend by Year: Analysis shows a significant spike in 2022 (1,150 incidents) compared to 2021.
 
 4. Geospatial Distribution
-Interactive map showing crime density across Europe.
+    Interactive map showing crime density across Europe.
 
-Circle markers indicate incident volume, highlighting specific regional clusters that require authority attention.
+    Circle markers indicate incident volume, highlighting specific regional clusters that require authority attention.
 
 ## 🛠️ Dashboard Features
-Dynamic Filtering: Filter the entire report by specific crime types.
+    Dynamic Filtering: Filter the entire report by specific crime types.
 
-Time-Range Analysis: Horizontal bar charts breaking down crime by 3-hour windows.
+    Time-Range Analysis: Horizontal bar charts breaking down crime by 3-hour windows.
 
-Drill-Through Capability: Access raw "Details" for individual incident auditing.
+    Drill-Through Capability: Access raw "Details" for individual incident auditing.
 
-Color-Coded Trends: Green indicators for low crime periods and Red for high-risk zones.
+    Color-Coded Trends: Green indicators for low crime periods and Red for high-risk zones.
 
-💡 Use Cases
-Law Enforcement: Allocating patrols during "Dangerous Crime Times".
+# Use Cases
+    Law Enforcement: Allocating patrols during "Dangerous Crime Times".
 
-Public Safety: Informing citizens about high-risk areas and time slots.
+    Public Safety: Informing citizens about high-risk areas and time slots.
 
-Policy Making: Evaluating the effectiveness of authority efforts through the 70.04% resolution rate.
+    Policy Making: Evaluating the effectiveness of authority efforts through the 70.04% resolution rate.
