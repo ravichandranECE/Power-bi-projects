@@ -31,22 +31,28 @@ How has the company's employee count changed over time based on hire and term da
 What is the tenure distribution for each department?
 
 # SUMMARY
+🔍 Key Insights & Metrics
 
-There are more male employees
+1. Workforce Demographics
+  Gender Distribution: Displays a workforce breakdown of approximately 9.3K Male, 8.5K Female, and 0.5K Non-Conforming employees.
+  Age & Race: Tracks age groups from 18 to 65+, with the 35-44 and 25-34 brackets being the most prominent. It also visualizes racial diversity, identifying White (5.2K) and Two or More Races (3.0K) as the largest segments.
+  HR Location: Visualizes that 74.98% of the workforce is based at Headquarters, while 25.02% works remotely.
 
-White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
+2. Departmental Performance
+  Engineering Leadership: The Engineering department is the largest, with a total count of 6,686 employees (5,501 active).
+  Staffing Snapshot: Includes detailed counts for Accounting, Marketing, Sales, and Research, tracking active vs. terminated status for each.
 
-The youngest employee is 20 years old and the oldest is 57 years old
+3. Retention & Geographic Trends
+  Termination Trends: A longitudinal line chart tracking Active Count vs. Termination Count from 2000 to 2020, helping identify periods of high turnover.
+  Geospatial Mapping: A US-based map highlighting employee density across states like Ohio, Pennsylvania, and Indiana.
 
-5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64.
+🛠️ Dashboard Features
+  Yearly Filtering: Dynamically filter the entire report by specific years to see historical changes.
+  Departmental Drill-Down: Cross-filter by gender or age within specific departments (e.g., Engineering vs. Sales).
+  Status Tracking: Real-time visibility into active vs. terminated employees to assist in turnover rate calculations.
 
-A large number of employees work at the headquarters versus remotely.
+### Use Cases
+    Diversity & Inclusion: Monitoring gender and race distribution to meet organizational goals.
+    Strategic Planning: Understanding where the remote workforce is located for tax and facility planning.
 
-The average length of employment for terminated employees is around 7 years.
-
-The gender distribution across departments is fairly balanced but there are generally more male than female employees.
-
-The Marketing department has the highest turnover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
-A large number of employees come from the state of Ohio.
-The net change in employees has increased over the years.
-The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
+Talent Management: Analyzing age distributions to prepare for future retirement waves or entry-level hiring needs.l and Auditing having the highest and Services, Sales and Marketing having the lowest.
