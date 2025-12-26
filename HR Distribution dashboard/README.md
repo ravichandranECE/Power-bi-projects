@@ -34,28 +34,28 @@ What is the tenure distribution for each department?
 🔍 Key Insights & Metrics
 
 1. Workforce Demographics
-  Gender Distribution: Displays a workforce breakdown of approximately 9.3K Male, 8.5K Female, and 0.5K Non-Conforming employees.
+      Gender Distribution: Displays a workforce breakdown of approximately 9.3K Male, 8.5K Female, and 0.5K Non-Conforming employees.
 
-  Age & Race: Tracks age groups from 18 to 65+, with the 35-44 and 25-34 brackets being the most prominent. It also visualizes racial diversity, identifying White (5.2K) and Two or More Races (3.0K) as the largest segments.
+      Age & Race: Tracks age groups from 18 to 65+, with the 35-44 and 25-34 brackets being the most prominent. It also visualizes racial diversity, identifying White (5.2K) and Two or More Races (3.0K) as the largest segments.
   
-  HR Location: Visualizes that 74.98% of the workforce is based at Headquarters, while 25.02% works remotely.
+      HR Location: Visualizes that 74.98% of the workforce is based at Headquarters, while 25.02% works remotely.
 
 3. Departmental Performance
-  Engineering Leadership: The Engineering department is the largest, with a total count of 6,686 employees (5,501 active).
+      Engineering Leadership: The Engineering department is the largest, with a total count of 6,686 employees (5,501 active).
 
-  Staffing Snapshot: Includes detailed counts for Accounting, Marketing, Sales, and Research, tracking active vs. terminated status for each.
+      Staffing Snapshot: Includes detailed counts for Accounting, Marketing, Sales, and Research, tracking active vs. terminated status for each.
 
 5. Retention & Geographic Trends
-  Termination Trends: A longitudinal line chart tracking Active Count vs. Termination Count from 2000 to 2020, helping identify periods of high turnover.
+      Termination Trends: A longitudinal line chart tracking Active Count vs. Termination Count from 2000 to 2020, helping identify periods of high turnover.
 
-  Geospatial Mapping: A US-based map highlighting employee density across states like Ohio, Pennsylvania, and Indiana.
+      Geospatial Mapping: A US-based map highlighting employee density across states like Ohio, Pennsylvania, and Indiana.
 
-🛠️ Dashboard Features
-  Yearly Filtering: Dynamically filter the entire report by specific years to see historical changes.
+##  Dashboard Features
+      Yearly Filtering: Dynamically filter the entire report by specific years to see historical changes.
   
-  Departmental Drill-Down: Cross-filter by gender or age within specific departments (e.g., Engineering vs. Sales).
+      Departmental Drill-Down: Cross-filter by gender or age within specific departments (e.g., Engineering vs. Sales).
   
-  Status Tracking: Real-time visibility into active vs. terminated employees to assist in turnover rate calculations.
+      Status Tracking: Real-time visibility into active vs. terminated employees to assist in turnover rate calculations.
 
 ### Use Cases
     Diversity & Inclusion: Monitoring gender and race distribution to meet organizational goals.
